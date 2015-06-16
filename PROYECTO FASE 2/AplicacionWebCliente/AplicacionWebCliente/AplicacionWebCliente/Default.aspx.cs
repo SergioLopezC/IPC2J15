@@ -13,5 +13,21 @@ namespace AplicacionWebCliente
         {
 
         }
+
+        protected void btnAceptar_Click(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text != "" && txtPass.Text != "")
+            {
+                lblError.Text = "Bienvenido al sistema";
+                lblError.Visible = true;
+               /* Response.Redirect["frmPrincipal.aspx"];*/
+
+            }
+            else
+            {
+                lblError.Text = "faltan ingresar campos";
+                lblError.Visible = true;
+            }
+        }
     }
 }
