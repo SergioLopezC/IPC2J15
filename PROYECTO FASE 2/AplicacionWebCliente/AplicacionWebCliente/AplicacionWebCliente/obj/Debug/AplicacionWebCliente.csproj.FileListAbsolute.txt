@@ -1,0 +1,6 @@
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\bin\AplicacionWebCliente.dll.config
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\bin\AplicacionWebCliente.dll
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\bin\AplicacionWebCliente.pdb
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\obj\Debug\AplicacionWebCliente.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\obj\Debug\AplicacionWebCliente.dll
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\AplicacionWebCliente\AplicacionWebCliente\AplicacionWebCliente\obj\Debug\AplicacionWebCliente.pdb

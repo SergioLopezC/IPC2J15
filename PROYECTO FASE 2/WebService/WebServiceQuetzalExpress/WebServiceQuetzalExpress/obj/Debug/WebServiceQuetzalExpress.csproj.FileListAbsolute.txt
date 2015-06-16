@@ -1,0 +1,6 @@
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\bin\WebServiceQuetzalExpress.dll.config
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\bin\WebServiceQuetzalExpress.dll
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\bin\WebServiceQuetzalExpress.pdb
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\obj\Debug\WebServiceQuetzalExpress.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\obj\Debug\WebServiceQuetzalExpress.dll
+C:\Users\Sergio Josue\Documents\GitHub\IPC2J15\PROYECTO FASE 2\WebService\WebServiceQuetzalExpress\WebServiceQuetzalExpress\obj\Debug\WebServiceQuetzalExpress.pdb
