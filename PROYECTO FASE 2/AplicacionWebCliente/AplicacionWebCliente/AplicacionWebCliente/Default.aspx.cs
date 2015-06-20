@@ -18,9 +18,13 @@ namespace AplicacionWebCliente
         {
             if (txtUsuario.Text != "" && txtPass.Text != "")
             {
+                
                 lblError.Text = "Bienvenido al sistema";
                 lblError.Visible = true;
-               /* Response.Redirect["frmPrincipal.aspx"];*/
+                Session.Equals("");
+               
+               Response.Redirect("Site1.Master");
+                
 
             }
             else
